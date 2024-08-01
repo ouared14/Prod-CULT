@@ -1,4 +1,4 @@
-# A Framework for Modeling and Testing of Forecasting Cultural Production in Agriculture 🌿🚜
+# A Framework for Modeling and Testing of Forecasting Cultural Production in Agriculture 🌿
 Prod-CULT (Modeling Framework for Forecasting Cultural Production in Agriculture) to enhance the forecasting of cultural production.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
