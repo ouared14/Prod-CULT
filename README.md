@@ -80,3 +80,8 @@ and parsing them into structured and unified dataset.
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
 If you find any issue just put it in the repository issue section, thank you.
 
+## Further improvements
+If you wish, you're welcome to participate in the Explain-Tun or to make suggestions !
+
+## Authors Anonymous
+
