@@ -12,24 +12,27 @@ Prod-CULT (Modeling Framework for Forecasting Cultural Production in Agriculture
 * Testing and evaluation.
 
 ## Libraries used
-* JFoenix (Material design)
-* ControlsFx (UX)
-* FontawesomeFx (Icons)
-* Connector/J (JDBC)
-* Webcam-capture ([download](http://webcam-capture.sarxos.pl))
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* SciPy
+* Scikit-learn
+* Statsmodels
+* TensorFlow
+* Keras
 
 ## Technology used
-* JavaFX
+* Python
 
 ## Requirements
-* Java version 8
-* IDE like Intellij IDEA or other
+* Python version 3.8
+* IDE Spyderor other
 * MySQL database
 
 ## How to use the application
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-    git clone https://github.com/HouariZegai/LSQLApp.git
 2. Open it in Intellij IDEA and download the libraries used (montioned above) and add it in the project.
 3. Import & execute the SQL queries from the Database folder to the MySQL database.
 4. Run the application :D
