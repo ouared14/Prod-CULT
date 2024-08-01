@@ -52,6 +52,10 @@ Prod-CULT (Modeling Framework for Forecasting Cultural Production in Agriculture
 ![image](https://github.com/user-attachments/assets/55407446-6728-4735-bb00-4cbdb36908d3)
 
 ### Gathering Data
+* Put the multiplatform application (Desktop, Android & Web).
+The figure provides a comprehensive overview of a data collection and management process tailored to cultural production. It highlights how various data
+sources, including Weather Data, GIS/POI Sources, Google Engine, Data Collection, Soil Analysis Data/Region, and Incidents/Anomalies, are integrated and analyzed to
+provide actionable insights.
 ![image](https://github.com/user-attachments/assets/24e65f0c-6550-495a-995a-db5e7f20be76)
 
 ### Conceptual workflow for merging data
