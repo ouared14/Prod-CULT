@@ -43,53 +43,19 @@ Prod-CULT (Modeling Framework for Forecasting Cultural Production in Agriculture
 * Add a part of QCM (put multichoix questions).
 * Auto evaluation.
 
-## Screenshots
+## Framework Prod-CULT
 
-### Login
-![login img](Screenshots/login.PNG)
+### Architecture
+![image](https://github.com/user-attachments/assets/55407446-6728-4735-bb00-4cbdb36908d3)
 
-### Home
-![](Screenshots/home.PNG img home"><br/>
+### Gathering Data
+![image](https://github.com/user-attachments/assets/24e65f0c-6550-495a-995a-db5e7f20be76)
 
-### Practical work
-![img connection](Screenshots/practical-work/c3.PNG)
-![screenshot](Screenshots/practical-work/c6.PNG)
+### Conceptual workflow for merging data
+![image](https://github.com/user-attachments/assets/84a54c37-4a15-4bcc-b413-dde6eaf13c02)
 
-### Traceability
-![screenshot](Screenshots/traceability/trac.PNG)
-### Traceability > Student
-![screenshot](Screenshots/traceability/trac-student/trac2.PNG)
-![screenshot](Screenshots/traceability/trac-student/trac3.PNG)
-![screenshot](Screenshots/traceability/trac-student/trac4.PNG)
-![screenshot](Screenshots/traceability/trac-student/trac5.PNG)
-![screenshot](Screenshots/traceability/trac-student/trac6.PNG)
-![screenshot](Screenshots/traceability/trac-student/trac7.PNG)
-### Traceability > Question
-![screenshot](Screenshots/traceability/trac-question/trac8.PNG)
-![screenshot](Screenshots/traceability/trac-question/trac9.PNG)
 ![screenshot](Screenshots/traceability/trac-question/trac10.PNG)
 
-### Guide
-![img guide](Screenshots/guide.PNG)
-
-### Manage Question
-![screenshot of manage question](Screenshots/manage-question/q.PNG)
-![screenshot of manage question](Screenshots/manage-question/q2.PNG)
-![screenshot of manage question](Screenshots/manage-question/q3.PNG)
-![screenshot of manage question](Screenshots/manage-question/q4.PNG)
-
-### Manage Account
-![screenshot of manage account](Screenshots/manage-account/a.PNG)
-![screenshot of manage account](Screenshots/manage-account/a2.PNG)
-![screenshot of manage account](Screenshots/manage-account/a3.PNG)
-![screenshot of manage account](Screenshots/manage-account/a4.PNG)
-
-### Settings
-![screenshot of settings](Screenshots/settings/s.PNG)
-![screenshot of settings](Screenshots/settings/s2.PNG)
-![screenshot of settings](Screenshots/settings/s3.PNG)
-![screenshot of settings](Screenshots/settings/s4.PNG)
-![screenshot of settings](Screenshots/settings/s5.PNG)
 
 
 
