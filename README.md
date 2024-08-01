@@ -30,11 +30,11 @@ Prod-CULT (Modeling Framework for Forecasting Cultural Production in Agriculture
 * IDE Spyderor other
 * MySQL database
 
-## How to use the application
+## How to Use This Project
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-2. Open it in Intellij IDEA and download the libraries used (montioned above) and add it in the project.
-3. Import & execute the SQL queries from the Database folder to the MySQL database.
+2. Open it in Spyder IDE and download the libraries used (montioned above) and add it in the project.
+3. Import & execute the data from the CSV files.
 4. Run the application :D
 
 ## Outlook for evolution and improvement :bulb:
