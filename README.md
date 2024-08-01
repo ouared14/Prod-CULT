@@ -5,12 +5,11 @@ Prod-CULT (Modeling Framework for Forecasting Cultural Production in Agriculture
 
 
 ## Features :heavy_check_mark:
-* Simple to use
-* Fast and beautiful design
-* We used material design & UX library to build this application
-* We used MVC design pattern
-* Password hashed
-*... and more
+* Expression of requirement
+* Identification of dimensions
+* Identification of factors impacting cultural production costs
+* Forecasting model construction
+* Testing and evaluation.
 
 ## Libraries used
 * JFoenix (Material design)
