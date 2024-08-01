@@ -1,5 +1,5 @@
-# LSQL: Learning analytics solution for monitoring and analyzing the students'behavior in SQL lab work 
-Learning analytics dashboard Side to help teacher 👨‍🏫  SQL learning environment Side to assist student 👨‍🎓.
+# A Framework for Modeling and Testing of Forecasting Cultural Production in Agriculture
+Prod-CULT (Modeling Framework for Forecasting Cultural Production in Agriculture) to enhance the forecasting of cultural production.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
