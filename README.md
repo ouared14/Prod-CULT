@@ -57,7 +57,6 @@ Prod-CULT (Modeling Framework for Forecasting Cultural Production in Agriculture
 ### Conceptual workflow for merging data
 ![image](https://github.com/user-attachments/assets/84a54c37-4a15-4bcc-b413-dde6eaf13c02)
 
-![screenshot](Screenshots/traceability/trac-question/trac10.PNG)
 
 
 
