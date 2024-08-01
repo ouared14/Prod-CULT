@@ -59,6 +59,8 @@ sources, including Weather Data, GIS/POI Sources, Google Engine, Data Collection
 provide actionable insights.
 
 
+
+
 ![image](https://github.com/user-attachments/assets/24e65f0c-6550-495a-995a-db5e7f20be76)
 
 ### Conceptual workflow for merging data
