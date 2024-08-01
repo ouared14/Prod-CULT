@@ -59,6 +59,10 @@ provide actionable insights.
 ![image](https://github.com/user-attachments/assets/24e65f0c-6550-495a-995a-db5e7f20be76)
 
 ### Conceptual workflow for merging data
+The goal of the log merger is to create a merged log in a single format by combining a data log with an IT resource log and including
+relevant attributes (i.e., features). Figure below shows the Conceptual workflow of the data merging process by collecting data logs from various sources
+and parsing them into structured and unified dataset.
+
 ![image](https://github.com/user-attachments/assets/84a54c37-4a15-4bcc-b413-dde6eaf13c02)
 
 
